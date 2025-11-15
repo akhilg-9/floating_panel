@@ -1,4 +1,4 @@
-## 0.0.1
+## 0.0.2
 
 * Initial release of macos_floating_panel plugin
 * Support for macOS floating panel windows
